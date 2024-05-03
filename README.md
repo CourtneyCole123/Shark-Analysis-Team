@@ -42,20 +42,21 @@ This project undertakes a detailed statistical exploration into the patterns of 
 
 ## Research Questions
 ### 1. Seasonal Patterns: Are attacks more frequent during certain months or seasons? (Albert)
-**Shark Attacks by Month:**
+
 ![Shark Attacks by Month](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_by_month.png "Shark Attacks by Month")
+
 Analysis of shark attack frequency reveals significant seasonal variation, peaking in the warmer months. This trend correlates with increased water temperatures and coastal activities, particularly from June through September.
 
-**Shark Attacks by Season:**
-![Shark Attacks by Season](images/shark_attacks_by_season.png "Shark Attacks by Season")
+![Shark Attacks by Season](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_by_season.png "Shark Attacks by Season")
+
 Summer is the most dangerous season for shark attacks, reflecting increased human activity in waters. Spring and fall show moderate levels, while winter has the lowest incidence, correlating with colder water temperatures and reduced water-related activities.
 
-**Time Series Analysis and 5-Year Moving Average:**
-![Time Series Analysis](images/time_series_analysis.png "Time Series Analysis")
+![Time Series Analysis](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_trends_over_years.png "Time Series Analysis")
+
 From a historical perspective, shark attacks were minimal from 1880 to 1920, increasing with coastal population growth and enhanced reporting. The 5-year moving average shows a general upward trend, peaking shortly after 2000. Post-2015, there's a decline, likely due to improved safety measures.
 
-**Linear Regression:**
-![Linear Regression](images/linear_regression.png "Linear Regression")
+![Linear Regression](Data-Visualizations/Seasonal-Patterns-Albert/linear_regression_on_shark_attacks.png "Linear Regression")
+
 The model indicates a general increase in shark attacks over time, supported by a strong positive correlation between time and attack numbers. This trend aligns with observed peaks and historical data trends.
 
 ### 2. Species Involvement: Which shark species are most involved in attacks, and are some more likely to cause severe injuries? (Jay)
