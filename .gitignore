@@ -1,5 +1,7 @@
 # Add files to .gitignore
 .DS_Store
+.ipynb_checkpoints
+Please_Ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
