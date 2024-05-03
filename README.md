@@ -1,7 +1,7 @@
-# Shark-Analysis-Team
+# Shark-Analysis-Team 🦈
 **Project: Analyzing Patterns in Shark Attack Incidents: A Global Perspective**
 
-## Table of Contents
+## Table of Contents 📑
 - [Team Members](#team-members)
 - [Shark Reflection](#shark-reflection)
 - [Introduction](#introduction)
@@ -14,23 +14,23 @@
 - [References](#references)
 - [Repository](#repository)
 
-## Team Members
+## Team Members 👥
 - Courtney Cole
 - Mohamed Ibrahim
 - Albert Lee
 - Jay Singh
 
-## Shark Reflection
+## Shark Reflection 💡
 > "To reset and clarify the bigger picture, today's reflection led to the discovery of an image that aligns perfectly with both the presentation and our purpose for gathering. As we continue our learning journey, let us embrace patience abundantly. May we grant ourselves grace for past mistakes, knowing each one paves the way to growth and confidence.
 >
 > Remember, mindset truly shapes our reality. If you find yourself feeling like a fish, challenge yourself to adopt the mindset of a shark."
 >
 > — Courtney Cole
 
-## Introduction
+## Introduction 🌍
 This project undertakes a detailed statistical exploration into the patterns of shark attacks across the globe. Our aim is to understand the factors influencing the occurrence and outcomes of shark encounters, thereby contributing to better preventative strategies and public awareness.
 
-## File Structure
+## File Structure 📂
 - **API Retrieval Script**: Implemented with `requests.get()`. Did not require an API key.
 - **Data Cleaning Notebook**: `Shark Data_1.ipynb` - Cells 1 to 57 cover data preprocessing.
 - **Analysis Notebooks**:
@@ -40,7 +40,7 @@ This project undertakes a detailed statistical exploration into the patterns of 
   - Jay: `Shark Data.ipynb` - Starting from cell 67 to the end.
 
 
-## Research Questions
+## Research Questions 🔍
 ### 1. Seasonal Patterns: Are attacks more frequent during certain months or seasons? (Albert)
 
 ![Shark Attacks by Month](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_by_month.png "Shark Attacks by Month")
@@ -87,16 +87,16 @@ This project undertakes a detailed statistical exploration into the patterns of 
 
 **Summary:** Analysis of shark attack data identifies the USA, Australia, and South Africa as regions with the highest incidences, influenced by factors such as beach-going populations and marine biodiversity.
 
-## Results
+## Results 📊
 Our analyses have provided several key insights into shark attack patterns, which are visually represented in the images above. Each member's contribution has highlighted different aspects of shark behavior and human interaction.
 
-## Discussion
+## Discussion 🗣️
 The findings from our research offer important implications for public safety and shark conservation efforts. Limitations in the data were addressed, and potential for further detailed studies were identified.
 
-## Conclusions
+## Conclusions 🏁
 In conclusion, our research sheds light on the complex nature of shark-human interactions and provides a basis for further studies and safety strategies. The collective efforts of our team have highlighted significant patterns that could aid in reducing shark attack incidents.
 
-## Acknowledgments
+## Acknowledgments 👏
 A big shout out to our instructor, Benjamen Alford, at the KU Data Analytics Boot Camp for his support and guidance throughout this project.
 
 ## References 🌐
