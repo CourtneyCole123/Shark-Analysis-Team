@@ -43,7 +43,7 @@ This project undertakes a detailed statistical exploration into the patterns of 
 ## Research Questions
 ### 1. Seasonal Patterns: Are attacks more frequent during certain months or seasons? (Albert)
 **Shark Attacks by Month:**
-![Shark Attacks by Month](Shark-Analysis-Team/Data-Visualization/Seasonal-Patterns-Albert/shark_attacks_by_month.png "Shark Attacks by Month")
+![Shark Attacks by Month](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_by_month.png "Shark Attacks by Month")
 Analysis of shark attack frequency reveals significant seasonal variation, peaking in the warmer months. This trend correlates with increased water temperatures and coastal activities, particularly from June through September.
 
 **Shark Attacks by Season:**
