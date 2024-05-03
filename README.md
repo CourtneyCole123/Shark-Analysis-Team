@@ -1,6 +1,19 @@
 # Shark-Analysis-Team
 **Project: Analyzing Patterns in Shark Attack Incidents: A Global Perspective**
 
+## Table of Contents
+- [Team Members](#team-members)
+- [Shark Reflection](#shark-reflection)
+- [Introduction](#introduction)
+- [File Structure](#file-structure)
+- [Research Questions](#research-questions)
+- [Results](#results)
+- [Discussion](#discussion)
+- [Conclusions](#conclusions)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
+- [Repository](#repository)
+
 ## Team Members
 - Courtney Cole
 - Mohamed Ibrahim
@@ -16,19 +29,6 @@
 
 ## Introduction
 This project undertakes a detailed statistical exploration into the patterns of shark attacks across the globe. Our aim is to understand the factors influencing the occurrence and outcomes of shark encounters, thereby contributing to better preventative strategies and public awareness.
-
-## Table of Contents
-- [Team Members](#team-members)
-- [Shark Reflection](#shark-reflection)
-- [Introduction](#introduction)
-- [File Structure](#file-structure)
-- [Research Questions](#research-questions)
-- [Results](#results)
-- [Discussion](#discussion)
-- [Conclusions](#conclusions)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
-- [Repository](#repository)
 
 ## File Structure
 - **API Retrieval Script**: Implemented with `requests.get()`. Did not require an API key.
