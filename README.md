@@ -53,7 +53,7 @@ This project undertakes a detailed statistical exploration into the patterns of 
 
 ![Time Series Analysis](Data-Visualizations/Seasonal-Patterns-Albert/shark_attacks_trends_over_years.png "Time Series Analysis")
 
-**Summary:** From a historical perspective, shark attacks were minimal from 1880 to 1920, increasing with coastal population growth and enhanced reporting. The 5-year moving average shows a general upward trend, peaking shortly after 2000. Post-2015, there's a decline, likely due to improved safety measures.
+**Summary:** From a historical perspective, shark attacks were minimal from 1880 to 1920, increasing with coastal population growth and enhanced reporting. The 5-year moving average shows a general upward trend, peaking shortly after 2000. Following 2015, a noticeable downturn occurs, which is primarily attributed to reduced human-water interactions during the COVID-19 pandemic from 2019 to 2021.
 
 ![Linear Regression](Data-Visualizations/Seasonal-Patterns-Albert/linear_regression_on_shark_attacks.png "Linear Regression")
 
@@ -67,7 +67,7 @@ This project undertakes a detailed statistical exploration into the patterns of 
 
 ![Shark Attack Injury Severity](Data-Visualizations/Species-Involvement-Jay/shark_attack_severity.png "Do Shark Attacks Leave Severe Injuries")
 
-**Summary:** While most shark attacks are not severe, a significant minority lead to serious injuries, highlighting the unpredictable nature of these encounters.
+**Summary:** This data highlights that although shark attacks are serious and can be life-threatening, the majority do not result in severe injuries, which could be attributed to the effective and immediate actions taken after a shark attack, significantly reducing the severity of injuries.
 
 ### 3. Activities Leading to Attacks: Is there a relationship between certain activities and the likelihood of an attack? (Courtney)
 
@@ -84,6 +84,7 @@ This project undertakes a detailed statistical exploration into the patterns of 
 ![Attacks per Country](Data-Visualizations/Geographic-Hotspots-Mohamed/attacks_per_country_bar_graph.png "Attacks per Country")
 ![Attacks per Country](Data-Visualizations/Geographic-Hotspots-Mohamed/attacks_per_country_pie_chart.png "Attacks per Country")
 ![Attacks per Country](Data-Visualizations/Geographic-Hotspots-Mohamed/top_us_states_for_shark_attacks.png "Attacks per Country")
+
 **Summary:** Analysis of shark attack data identifies the USA, Australia, and South Africa as regions with the highest incidences, influenced by factors such as beach-going populations and marine biodiversity.
 
 ## Results
@@ -99,7 +100,7 @@ In conclusion, our research sheds light on the complex nature of shark-human int
 A big shout out to our instructor, Benjamen Alford, at the KU Data Analytics Boot Camp for his support and guidance throughout this project.
 
 ## References 🌐
-- Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/explore/dataset/global-shark-attack/table/?flg=en-us&disjunctive.country&disjunctive.area&disjunctive.activity&dataChart)
+Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/explore/dataset/global-shark-attack/table/?flg=en-us&disjunctive.country&disjunctive.area&disjunctive.activity&dataChart)
 
 ## Repository 🌐
 
