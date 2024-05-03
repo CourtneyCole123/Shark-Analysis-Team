@@ -7,11 +7,19 @@
 - Albert Lee
 - Jay Singh
 
+## Shark Reflection
+> "To reset and clarify the bigger picture, today's reflection led to the discovery of an image that aligns perfectly with both the presentation and our purpose for gathering. As we continue our learning journey, let us embrace patience abundantly. May we grant ourselves grace for past mistakes, knowing each one paves the way to growth and confidence.
+>
+> Remember, mindset truly shapes our reality. If you find yourself feeling like a fish, challenge yourself to adopt the mindset of a shark."
+>
+> — Courtney Cole
+
 ## Introduction
 This project undertakes a detailed statistical exploration into the patterns of shark attacks across the globe. Our aim is to understand the factors influencing the occurrence and outcomes of shark encounters, thereby contributing to better preventative strategies and public awareness.
 
 ## Table of Contents
 - [Team Members](#team-members)
+- [Shark Reflection](#shark-reflection)
 - [Introduction](#introduction)
 - [File Structure](#file-structure)
 - [Research Questions](#research-questions)
@@ -83,7 +91,7 @@ The findings from our research offer important implications for public safety an
 In conclusion, our research sheds light on the complex nature of shark-human interactions and provides a basis for further studies and safety strategies. The collective efforts of our team have highlighted significant patterns that could aid in reducing shark attack incidents.
 
 ## Acknowledgments
-We thank our instructor, Benjamen Alford, at the KU Data Analytics Boot Camp for his support and guidance throughout this project.
+A big shout out to our instructor, Benjamen Alford, at the KU Data Analytics Boot Camp for his support and guidance throughout this project.
 
 ## References 🌐
 - Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/explore/dataset/global-shark-attack/table/?flg=en-us&disjunctive.country&disjunctive.area&disjunctive.activity&dataChart)
