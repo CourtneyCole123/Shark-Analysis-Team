@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shark-Analysis-Team 🦈
 **Project: Analyzing Patterns in Shark Attack Incidents: A Global Perspective**
 
@@ -105,3 +106,10 @@ Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/e
 ## Repository 🌐
 
 All code and datasets are maintained in the [Shark-Analysis-Team GitHub Repository](https://github.com/CourtneyCole123/Shark-Analysis-Team/tree/main).
+=======
+# Shark-Analysis-Team
+Shark-Analysis-Team
+# Jay
+- White Shark at 38.6% is the mostly commonly involved shark specie in shark attacks.
+- Most attacks do not leave severe injuries, severe injuries account for only 18.4% of the attacks.
+>>>>>>> origin/main
