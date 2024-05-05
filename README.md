@@ -105,5 +105,3 @@ Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/e
 ## Repository 🌐
 
 All code and datasets are maintained in the [Shark-Analysis-Team GitHub Repository](https://github.com/CourtneyCole123/Shark-Analysis-Team/tree/main).
-
-
