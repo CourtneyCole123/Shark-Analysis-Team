@@ -34,11 +34,10 @@ This project undertakes a detailed statistical exploration into the patterns of 
 - **API Retrieval Script**: Implemented with `requests.get()`. Did not require an API key.
 - **Data Cleaning Notebook**: `Shark Data_1.ipynb` - Cells 1 to 57 cover data preprocessing.
 - **Analysis Notebooks**:
-  - Courtney: `Shark Data_1.ipynb` - Starting from cell 58 to the end.
-  - Mohamed: `Shark Data_Mohamed.ipynb` - Starting from cell 58 to the end.
+  - Courtney: `Shark Data_1.ipynb` - Starting from cell 60 to the end.
+  - Mohamed: `Shark Data_Mohamed.ipynb` - Starting from cell 147 to the end.
   - Albert: `seasonal_patterns-albert.ipynb` - Entire notebook.
-  - Jay: `Shark Data.ipynb` - Starting from cell 67 to the end.
-
+  - Jay: `Shark Data_1.ipynb` - Starting from cell 58 to 59 to the end.
 
 ## Research Questions 🔍
 ### 1. Seasonal Patterns: Are attacks more frequent during certain months or seasons? (Albert)
