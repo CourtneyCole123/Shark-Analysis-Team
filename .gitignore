@@ -1,5 +1,8 @@
 # Add files to .gitignore
 .DS_Store
+.ipynb_checkpoints
+Please_Ignore/
+Shark Data_1.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
