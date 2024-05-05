@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Shark-Analysis-Team 🦈
 **Project: Analyzing Patterns in Shark Attack Incidents: A Global Perspective**
 
@@ -39,7 +38,6 @@ This project undertakes a detailed statistical exploration into the patterns of 
   - Mohamed: `Shark Data_Mohamed.ipynb` - Starting from cell 147 to the end.
   - Albert: `seasonal_patterns-albert.ipynb` - Entire notebook.
   - Jay: `Shark Data_1.ipynb` - Starting from cell 58 to 59 to the end.
-
 
 ## Research Questions 🔍
 ### 1. Seasonal Patterns: Are attacks more frequent during certain months or seasons? (Albert)
@@ -106,10 +104,3 @@ Global Shark Attack Dataset: [Link to Dataset](https://public.opendatasoft.com/e
 ## Repository 🌐
 
 All code and datasets are maintained in the [Shark-Analysis-Team GitHub Repository](https://github.com/CourtneyCole123/Shark-Analysis-Team/tree/main).
-=======
-# Shark-Analysis-Team
-Shark-Analysis-Team
-# Jay
-- White Shark at 38.6% is the mostly commonly involved shark specie in shark attacks.
-- Most attacks do not leave severe injuries, severe injuries account for only 18.4% of the attacks.
->>>>>>> origin/main
